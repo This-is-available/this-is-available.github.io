@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Placeholder on Yujin Huang</title>
+    <link>https://example.com/series/placeholder/</link>
+    <description>Recent content in Placeholder on Yujin Huang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/series/placeholder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world! My fist post</title>
+      <link>https://example.com/post/hello_world/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/hello_world/</guid>
+      
+        <description>My first post. Hello world!</description>
+      
+    </item>
+    
+  </channel>
+</rss>
