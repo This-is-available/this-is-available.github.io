@@ -119,22 +119,10 @@
                 href="https://example.com/tags/"
                 />
   </url><url>
-    <loc>https://example.com/tags/tech/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/categories/uncategorized/</loc>
     <lastmod>2023-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/untagged/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/series/website-edit-logs/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/website_edit_log/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/website-logs/</loc>
     <lastmod>2023-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/archives/</loc>
