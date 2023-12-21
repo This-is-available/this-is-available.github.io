@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website Logs on Yujin Huang</title>
+    <link>https://example.com/categories/website-logs/</link>
+    <description>Recent content in Website Logs on Yujin Huang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/website-logs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Edit Logs</title>
+      <link>https://example.com/post/website_edit_log/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/website_edit_log/</guid>
+      
+        <description>Notes when building this website.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
