@@ -2,6 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://example.com/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/"
+                />
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://example.com/cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/categories/"
+                />
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://example.com/cn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/"
+                />
+  </url><url>
+    <loc>https://example.com/series/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://example.com/cn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/series/"
+                />
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://example.com/cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tags/"
+                />
+  </url><url>
+    <loc>https://example.com/tags/tech/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/series/website-edit-logs/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/website_edit_log/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/website-logs/</loc>
+    <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/contact/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,19 +92,6 @@
                 href="https://example.com/contact/"
                 />
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://example.com/cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/"
-                />
-  </url><url>
     <loc>https://example.com/about/</loc>
     <lastmod>2023-12-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -39,19 +103,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/about/"
-                />
-  </url><url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://example.com/cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/categories/"
                 />
   </url><url>
     <loc>https://example.com/post/hello_world/</loc>
@@ -78,45 +129,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://example.com/series/placeholder/"
-                />
-  </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://example.com/cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/post/"
-                />
-  </url><url>
-    <loc>https://example.com/series/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://example.com/cn/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/series/"
-                />
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2023-12-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://example.com/cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tags/"
                 />
   </url><url>
     <loc>https://example.com/categories/uncategorized/</loc>
