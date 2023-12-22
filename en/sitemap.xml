@@ -69,15 +69,55 @@
   </url><url>
     <loc>https://example.com/tags/tech/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://example.com/cn/tags/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tags/tech/"
+                />
   </url><url>
     <loc>https://example.com/series/website-edit-logs/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://example.com/cn/series/website-edit-logs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/series/website-edit-logs/"
+                />
   </url><url>
     <loc>https://example.com/post/website_edit_log/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://example.com/cn/post/website_edit_log/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/website_edit_log/"
+                />
   </url><url>
     <loc>https://example.com/categories/website-logs/</loc>
     <lastmod>2023-12-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://example.com/cn/categories/website-logs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/categories/website-logs/"
+                />
   </url><url>
     <loc>https://example.com/contact/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
