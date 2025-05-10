@@ -29,5 +29,8 @@
     "typeface",
     "webfont",
     "css"
-  ]
+  ],
+  "dependencies": {
+    "lxgw-wenkai-screen-webfont": "file:"
+  }
 }
